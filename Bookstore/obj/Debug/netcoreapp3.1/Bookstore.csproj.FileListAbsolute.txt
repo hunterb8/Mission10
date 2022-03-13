@@ -103,3 +103,7 @@ C:\Users\hunterb8\source\repos\Bookstore\obj\Debug\netcoreapp3.1\Razor\Pages\Adm
 C:\Users\hunterb8\source\repos\Bookstore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\_Imports.razor.g.cs
 C:\Users\hunterb8\source\repos\Bookstore\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\PurchaseTable.razor.g.cs
 C:\Users\hunterb8\source\repos\Bookstore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\PurchaseTable.razor.g.cs
+C:\Users\hunterb8\source\repos\Bookstore\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Details.razor.g.cs
+C:\Users\hunterb8\source\repos\Bookstore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Details.razor.g.cs
+C:\Users\hunterb8\source\repos\Bookstore\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Editor.razor.g.cs
+C:\Users\hunterb8\source\repos\Bookstore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Editor.razor.g.cs
